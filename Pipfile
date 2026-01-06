@@ -17,8 +17,8 @@ pydantic = "*"
 flask-pydantic = "*"
 pyarrow = "*"
 optuna = "*"
-sweetviz = "*"
 setuptools = "*"
+numpy = "==1.26.4"
 
 [dev-packages]
 
